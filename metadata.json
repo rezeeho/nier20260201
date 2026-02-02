@@ -1,0 +1,8 @@
+
+{
+  "name": "국가 기후위기 적응정보 통합플랫폼",
+  "description": "과학 기반 기후 리스크 데이터와 지도를 제공하는 공공 포털의 실행 가능한 정적 프로토타입입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
